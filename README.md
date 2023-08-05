@@ -4,7 +4,7 @@ I will take figma design of this project and Made this project for practising my
 
 ![Product Search and Filter App](./images/p5.png)
 
-This repository contains a Product Search and Filter web application built using HTML, CSS, and JavaScript. The app fetches product data from an API (https://fakestoreapi.com/products) and allows users to search for products and apply real-time filters.
+This repository contains a Product Search and Filter web application built using HTML, CSS, and JavaScript. The app fetches product data from an API (https://fakestoreapi.com/products) and allows users to search for products and apply real-time filters.BY this you will learn about how you will make filters like you see in most websites .
 
 ## How to Use
 
@@ -29,7 +29,7 @@ The main files of the project are as follows:
 
 ## Compatibility
 
-The app should work well on modern web browsers with support for ES6 features.
+The app should work well on modern web browsers with support for ES6 features. Also responsible for moile and tablet.
 
 Feel free to explore and modify the app to suit your requirements. Enjoy searching for products and applying real-time filters!
 
